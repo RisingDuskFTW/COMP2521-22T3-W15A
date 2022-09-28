@@ -11,11 +11,19 @@ Code created during my W15A tutorials for COMP2521 in 22T3
 - C Revision Q2: Pointers and variables
 
 ## Week 2:
-- Compilation Q2: Makefiles
+- Compilation Q2: Makefiles
 - Compilation Q3: Header Files
 - Recursion Q0: Factorials
 - Recurison Q2: Count odd numbers
 - Recursion Q4: Deleting a value
 - Recursion Q6: Fibonnaci and limitations in recursion (no code)
 - Recursion Q3: Checking a list is sorted
+
+## Week 3: Time Complexity
+- Two Loops
+- Q1: Palindrome
+- Q2: Two Sum
+- Q4: Binary Conversion
+- Q6: Print Permutation
+- Complexity Test
 
