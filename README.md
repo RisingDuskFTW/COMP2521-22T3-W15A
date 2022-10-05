@@ -27,3 +27,14 @@ Code created during my W15A tutorials for COMP2521 in 22T3
 - Q6: Print Permutation
 - Complexity Test
 
+## Week 4: Binary Search Trees
+- Q1: Insertion
+- Q2: Traversal
+- Q3: Count num nodes
+- Q4: Count odd numbers
+- Q5: Find height
+- Q6: Count internal nodes
+- Q8: Count Greater than val
+- Q10: Tree Rotation
+- Q11: Tree Rotation
+- Tree Rotation
