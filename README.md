@@ -38,3 +38,10 @@ Code created during my W15A tutorials for COMP2521 in 22T3
 - Q10: Tree Rotation
 - Q11: Tree Rotation
 - Tree Rotation
+
+## Week 5: AVL Trees, 2-3-4 Trees, Graph Basics
+- AVL Trees Q1: Inserting into an AVL Tree
+- AVL Trees Q2: Creating an AVL Tree
+- 2-3-4 Trees Q1: Creating and inserting into a 2-3-4 Tree
+- Graph Basics Q1: Graph Representations
+- Midterm Kahoot
