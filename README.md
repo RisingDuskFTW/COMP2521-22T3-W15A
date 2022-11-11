@@ -54,3 +54,17 @@ Code created during my W15A tutorials for COMP2521 in 22T3
 - Graph Theory Q1: More Terminology
 - Graph Theory Q3: Euler / Hamiltonian Paths & Circuits
 - Graph Theory Q5: Hamiltonian Path / Circuit
+
+## Week 8: Graphs and Graph Algorithms
+- Q1: Reachability
+- Q2: Reachability
+- Q4: Shortest Path (Dijkstra's Algorithm)
+- Q5: Minimum Spanning Tree (Kruskal's Algorithm)
+- Q6: Minimum Spanning Tree (Prim's Algorithm)
+
+## Week 9: Sorting Algorithms
+- Q1: Sort Terminology
+- Q2: Stable Sorting
+- Q4: $O(n^2)$ Sorts (Bubble, Insertion, and Selection Sort)
+- Q5: Merge Sort
+- Q6: Quick Sort
