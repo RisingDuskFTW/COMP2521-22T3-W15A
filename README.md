@@ -68,3 +68,10 @@ Code created during my W15A tutorials for COMP2521 in 22T3
 - Q4: $O(n^2)$ Sorts (Bubble, Insertion, and Selection Sort)
 - Q5: Merge Sort
 - Q6: Quick Sort
+
+## Week 10: Hashing, Heaps and Tries
+- Hashing Q3: Hash Collisions
+- Heaps Q8: Heap as Array
+- Heaps Q9: Heap as Binary Tree
+- Tries Q10: Tries
+- Kahoot
